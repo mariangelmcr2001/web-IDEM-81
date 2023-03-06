@@ -7,13 +7,14 @@ background-color: rgb(233, 218, 195);
 .encabezado {
 width: 100%;
 height: 150px;
-background-color: rgb(217, 212, 218);
+background-color: rgb(219, 220, 241);
 }
 
 .menu {
 width: 100%;
 height: 100px;
-background-color: rgb(187, 187, 187);
+background-color: rgb(248, 243, 232);
+display: flex;
 }
 
 .contenedor2 {
@@ -26,17 +27,52 @@ display: flex;
 .izquierda {
 width: 20%;
 height: 1200px;
-background-color: palegoldenrod;
+background-color: rgb(226, 226, 226);
 }
 
 .centro {
 width: 60%;
 height: 1200px;
-background-color: thistle;
+background-color: rgb(226, 204, 195);
 }
 
 .derecha {
 width: 20%;
 height: 1200px;
-background-color: palegoldenrod;
+background-color: rgb(226, 226, 223);
+}
+
+.sociales {
+width: 100px;
+height: 98px;
+background-color: rgb(156, 217, 245);
+margin: 2px;
+}
+
+.ingles {
+width: 100px;
+height: 98px;
+background-color: rgba(243, 218, 164, 0.904);
+margin: 2px;
+}
+
+.matematicas {
+width: 100px; 
+height: 98px; 
+background-color: rgb(184, 211, 139);
+margin: 2px; 
+}
+
+.biologia {
+width: 100px;
+height: 98px;
+background-color: darkseagreen;
+margin: 2px;
+}
+
+.tecnologia {
+width: 100px;
+height: 98px;
+background-color: rgb(168, 175, 182);
+margin: 2px;
 }
