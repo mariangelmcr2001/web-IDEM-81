@@ -33,7 +33,10 @@ background-color: rgb(226, 226, 226);
 .centro {
 width: 60%;
 height: 1200px;
-background-color: rgb(226, 204, 195);
+background-color: rgb(206, 196, 186);
+color: rgb(0, 0, 0);
+font-size: 30px;
+font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
 .derecha {
