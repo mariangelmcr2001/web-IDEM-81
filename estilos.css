@@ -13,7 +13,7 @@
     
     background-image: url("background-5574027_1920.png");
     
-    background-repeat: no-repeat;
+    background-repeat: repeat-x;
     
     }
     
@@ -239,9 +239,9 @@
                     
                     float:left;
                     
-                    height: 200px;
+                    height: 230px;
                     
-                    width: 260px;
+                    width: 240px;
                     
                     margin-left: 5px;
                     
@@ -267,3 +267,54 @@
                     
                     
                     }
+                    .contenidoing{
+
+                        height: 280px;
+                        
+                        width: 100%;
+                        
+                        position: absolute;
+                        
+                        top: 410px;
+                        
+                         
+                        
+                        }
+                        
+                         
+                        
+                        .imagening{
+                        
+                         
+                        
+                        background-repeat: no-repeat;
+                        
+                        float:left;
+                        
+                        height: 200px;
+                        
+                        width: 260px;
+                        
+                        margin-left: 5px;
+                        
+                        margin-right:5px;
+                        
+                        background-image: url("medellin.jpeg");
+                        
+                        }
+                        
+                        
+                        
+                        .textoing{
+                        
+                        font-family: cursive;
+                        
+                        text-align: justify;
+                        
+                        color: rgb(0, 0, 0);
+                        
+                        font-size: 20px;
+                        
+                        
+                        
+                        }
