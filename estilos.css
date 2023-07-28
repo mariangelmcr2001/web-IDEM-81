@@ -1,8 +1,9 @@
+
 *{
 
-    padding: 100px;
+    padding: 0px;
     
-    margin: 100px;
+    margin: 0px;
     
     }
     
@@ -45,7 +46,7 @@
     
      
     
-    height: 500px;
+    height: 230px;
     
      
     
@@ -59,9 +60,9 @@
     
     color: brown;
     
-    }
+     }
 
-    .contenido{
+     .contenido{
 
         height: 280px;
         
@@ -103,14 +104,17 @@
         
         font-family: cursive;
         
-        text-align: justify;
+            text-align: justify;
         
         color: rgb(0, 0, 0);
         
         font-size: 20px;
+        
+        
+        
         }
 
-        .contenidomate{
+        .contenidobio{
 
             height: 280px;
             
@@ -126,7 +130,7 @@
             
              
             
-            .imagenmate{
+            .imagenbio{
             
              
             
@@ -142,27 +146,28 @@
             
             margin-right:5px;
             
-            background-image: url("matematicas.jepg.png");
+            background-image: url("GeneticDisorders_share.jpg");
             
             }
             
             
             
-            .textomate{
+            .textobio{
             
-                font-family: cursive; 
-                
-                text-align: left;
-                
-                color: rgb(0, 0, 0);
-                
-                font-size: 18px;
+            
+            font-family: cursive;
+            
+                text-align: justify;
+            
+            color: rgb(0, 0, 0);
+            
+            font-size: 20px;
             
             
             
             }
 
-            .contenidobio{
+            .contenidosociales{
 
                 height: 280px;
                 
@@ -178,96 +183,61 @@
                 
                  
                 
-                .imagenbio{
+                .imagensociales{
                 
                  
                 
                 background-repeat: no-repeat;
                 
-                float: right;
+                float:left;
                 
-                height: 200px;
+                height: 860px;
                 
-                width: 260px;
+                width: 1050px;
                 
                 margin-left: 5px;
                 
-                margin-right:9px;
+                margin-right:5px;
                 
-                background-image: url("GeneticDisorders_share.jpg");
+                background-image: url("Mapasoc.jpg");
                 
                 }
                 
                 
                 
-                .textobio{
+                .textosociales{
                 
                 font-family: cursive;
                 
-                text-align: left;
+                    text-align: justify;
                 
                 color: rgb(0, 0, 0);
                 
-                font-size: 20px;
-                
-                
+                font-size: 19px;
                 
                 }
 
-
-                .contenidoreli{
-
-                    height: 280px;
-                    
-                    width: 100%;
-                    
-                    position: absolute;
-                    
-                    top: 300px;
-                    
-                     
-                    
-                    }
-                    
-                     
-                    
-                    .imagenreli{
-                    
-                     
-                    
+                .imagensociales2{
+                
+                 
+                
                     background-repeat: no-repeat;
                     
                     float:left;
                     
-                    height: 230px;
+                    height: 860px;
                     
-                    width: 240px;
+                    width: 1260px;
                     
                     margin-left: 5px;
                     
                     margin-right:5px;
                     
-                    background-image: url("Vishnu_1_2.jpg");
+                    background-image: url("portadasoc.jpg");
                     
                     }
-                    
-                    
-                    
-                    .textoreli{
-                    
-                    font-family: cursive;
-                    
-                    text-align: justify;
-                    
-                    color: rgb(0, 0, 0);
-                    
-                    font-size: 20px;
 
-                    
-                    
-                    
-                    }
-                    .contenidoing{
+                    .contenidoreli{
 
                         height: 280px;
                         
@@ -283,7 +253,7 @@
                         
                          
                         
-                        .imagening{
+                        .imagenreli{
                         
                          
                         
@@ -291,7 +261,7 @@
                         
                         float:left;
                         
-                        height: 200px;
+                        height: 260px;
                         
                         width: 260px;
                         
@@ -299,17 +269,17 @@
                         
                         margin-right:5px;
                         
-                        background-image: url("descargaing.jpg");
+                        background-image: url("Vishnu_1_2.jpg");
                         
                         }
                         
                         
                         
-                        .textoing{
+                        .textoreli{
                         
                         font-family: cursive;
                         
-                        text-align: justify;
+                            text-align: justify;
                         
                         color: rgb(0, 0, 0);
                         
@@ -317,4 +287,109 @@
                         
                         
                         
-                        }
+                        }     
+
+                    
+                        .contenidomate{
+
+                            height: 280px;
+                            
+                            width: 100%;
+                            
+                            position: absolute;
+                            
+                            top: 410px;
+                            
+                             
+                            
+                            }
+                            
+                             
+                            
+                            .imagenmate{
+                            
+                             
+                            
+                            background-repeat: no-repeat;
+                            
+                            float:left;
+                            
+                            height: 200px;
+                            
+                            width: 260px;
+                            
+                            margin-left: 5px;
+                            
+                            margin-right:5px;
+                            
+                            background-image: url("matematicas.jepg.png");
+                            
+                            }
+                            
+                            
+                            
+                            .textomate{
+                            
+                            font-family: cursive;
+                            
+                                text-align: justify;
+                            
+                            color: rgb(0, 0, 0);
+                            
+                            font-size: 20px;
+                            
+                            
+                            
+                            }
+
+                            .contenidoing{
+
+                                height: 280px;
+                                
+                                width: 100%;
+                                
+                                position: absolute;
+                                
+                                top: 410px;
+                                
+                                 
+                                
+                                }
+                                
+                                 
+                                
+                                .imagening{
+                                
+                                 
+                                
+                                background-repeat: no-repeat;
+                                
+                                float:left;
+                                
+                                height: 200px;
+                                
+                                width: 260px;
+                                
+                                margin-left: 5px;
+                                
+                                margin-right:5px;
+                                
+                                background-image: url("descargaing.jpg");
+                                
+                                }
+                                
+                                
+                                
+                                .textoing{
+                                
+                                font-family: cursive;
+                                
+                                    text-align: justify;
+                                
+                                color: rgb(0, 0, 0);
+                                
+                                font-size: 20px;
+                                
+                                
+                                
+                                }
