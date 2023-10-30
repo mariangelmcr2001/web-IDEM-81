@@ -342,7 +342,7 @@
                             
                             }
 
-                            .contenidoing{
+                            .contenidoing3{
 
                                 height: 280px;
                                 
@@ -358,29 +358,11 @@
                                 
                                  
                                 
-                                .imagening{
-                                
-                                 
-                                
-                                background-repeat: no-repeat;
-                                
-                                float:left;
-                                
-                                height: 200px;
-                                
-                                width: 260px;
-                                
-                                margin-left: 5px;
-                                
-                                margin-right:5px;
-                                
-                                background-image: url("descargaing.jpg");
-                                
-                                }
+                               
                                 
                                 
                                 
-                                .textoing{
+                                .textoing3{
                                 
                                 font-family: cursive;
                                 
@@ -393,6 +375,26 @@
                                 
                                 
                                 }
+
+                                .imagening3{
+                                
+                                 
+                                
+                                    background-repeat: no-repeat;
+                                    
+                                    float:left;
+                                    
+                                    height: 800px;
+                                    
+                                    width: 1400px;
+                                    
+                                    margin-left: 5px;
+                                    
+                                    margin-right:5px;
+                                    
+                                    background-image: url("imagenin3c2.jpg");
+                                    
+                                    }
 
 
 
