@@ -342,7 +342,7 @@
                             
                             }
 
-                            .contenidoing3{
+                            .contenidoing{
 
                                 height: 280px;
                                 
@@ -358,11 +358,29 @@
                                 
                                  
                                 
-                               
+                                .imagening{
+                                
+                                 
+                                
+                                background-repeat: no-repeat;
+                                
+                                float:left;
+                                
+                                height: 200px;
+                                
+                                width: 260px;
+                                
+                                margin-left: 5px;
+                                
+                                margin-right:5px;
+                                
+                                background-image: url("descargaing.jpg");
+                                
+                                }
                                 
                                 
                                 
-                                .textoing3{
+                                .textoing{
                                 
                                 font-family: cursive;
                                 
@@ -375,56 +393,3 @@
                                 
                                 
                                 }
-
-                                .imagening3{
-                                
-                                 
-                                
-                                    background-repeat: no-repeat;
-                                    
-                                    float:left;
-                                    
-                                    height: 800px;
-                                    
-                                    width: 1400px;
-                                    
-                                    margin-left: 5px;
-                                    
-                                    margin-right:5px;
-                                    
-                                    background-image: url("imagenin3c2.jpg");
-                                    
-                                    }
-
-
-
-                                .contenidomate3{
-
-                                    height: 280px;
-                                    
-                                    width: 100%;
-                                    
-                                    position: absolute;
-                                    
-                                    top: 410px;
-                                    
-                                     
-                                    
-                                    }
-                                    
-                                    
-                                    
-                                    .textomate3{
-                                    
-                                    font-family: cursive;
-                                    
-                                        text-align: justify;
-                                    
-                                    color: rgb(0, 0, 0);
-                                    
-                                    font-size: 20px;
-                                    
-                                    
-                                    
-                                    }
-    
