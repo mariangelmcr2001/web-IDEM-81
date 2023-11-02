@@ -62,7 +62,7 @@
     
      }
 
-     .contenido{
+     .contenidotecno{
 
         height: 280px;
         
@@ -102,7 +102,7 @@
         
         .textotecno{
         
-        font-family: cursive;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
         
             text-align: justify;
         
@@ -155,7 +155,7 @@
             .textobio{
             
             
-            font-family: cursive;
+            font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
             
                 text-align: justify;
             
@@ -207,7 +207,7 @@
                 
                 .textosociales{
                 
-                font-family: cursive;
+                font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
                 
                     text-align: justify;
                 
@@ -277,7 +277,7 @@
                         
                         .textoreli{
                         
-                        font-family: cursive;
+                        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
                         
                             text-align: justify;
                         
@@ -330,7 +330,7 @@
                             
                             .textomate{
                             
-                            font-family: cursive;
+                            font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
                             
                                 text-align: justify;
                             
@@ -382,7 +382,7 @@
                                 
                                 .textoing{
                                 
-                                font-family: cursive;
+                                font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
                                 
                                     text-align: justify;
                                 
@@ -393,3 +393,177 @@
                                 
                                 
                                 }
+
+                                .contenidosoc3{
+
+                                    height: 280px;
+                                    
+                                    width: 100%;
+                                    
+                                    position: center;
+                                    
+                                    top: 410px;
+                                    
+                                     
+                                    
+                                    }
+
+
+                                    .textosociales3{
+                                                        
+                                        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+                                        
+                                        text-align: absolute;
+                                        
+                                        color: rgb(0, 0, 0);
+                                        
+                                        font-size: 20px;
+                                        
+                                        }
+                                    
+                                    
+
+                                    .imagensoc31{
+                                    
+                                     
+                                    
+                                        background-repeat: no-repeat;
+                                        
+                                        float:left;
+                                        
+                                        height: 2000px;
+                                        
+                                        width: 1000px;
+                                        
+                                        margin-left: 5px;
+                                        
+                                        margin-right:5px;
+                                        
+                                        background-image: url("Infografía1.png");
+                                        
+                                        }
+
+                                        .imagensoc32{
+                                    
+                                     
+                                    
+                                            background-repeat: no-repeat;
+                                            
+                                            float:left;
+                                            
+                                            height: 2000px;
+                                            
+                                            width: 1000px;
+                                            
+                                            margin-left: 5px;
+                                            
+                                            margin-right:5px;
+                                            
+                                            background-image: url("Infografía2.png");
+                                            
+                                            }
+
+                                            .contenidomate3{
+
+                                                height: 280px;
+                                                
+                                                width: 100%;
+                                                
+                                                position: center;
+                                                
+                                                top: 410px;
+                                                
+                                                 
+                                                
+                                                }
+                                                
+                                                .textomate3{
+                                                
+                                                font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+                                                
+                                                text-align: justify;
+                                                
+                                                color: rgb(0, 0, 0);
+                                                
+                                                font-size: 20px;
+                                                
+                                                
+                                                
+                                                }
+
+                                                .contenidotecno3{
+
+                                                    height: 280px;
+                                                    
+                                                    width: 100%;
+                                                    
+                                                    position: center;
+                                                    
+                                                    top: 410px;
+                                                    
+                                                     
+                                                    
+                                                    }
+                                                    
+                                                    .textotecno3{
+                                                    
+                                                    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+                                                    
+                                                    text-align: justify;
+                                                    
+                                                    color: rgb(0, 0, 0);
+                                                    
+                                                    font-size: 20px;
+                                                    
+                                                    
+                                                    
+                                                    }
+    
+                                                    .contenidoing3{
+
+                                                        height: 280px;
+                                                        
+                                                        width: 100%;
+                                                        
+                                                        position: center;
+                                                        
+                                                        top: 410px;
+                                                        
+                                                         
+                                                        
+                                                        }
+                                                        
+                                                        .textoing3{
+                                                        
+                                                        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+                                                        
+                                                        text-align: justify;
+                                                        
+                                                        color: rgb(0, 0, 0);
+                                                        
+                                                        font-size: 20px;
+                                                        
+                                                        }
+
+                                                        .imagening3{
+                                    
+                                     
+                                    
+                                                            background-repeat: no-repeat;
+                                                            
+                                                            float:left;
+                                                            
+                                                            height: 1000px;
+                                                            
+                                                            width: 1400px;
+                                                            
+                                                            margin-left: 5px;
+                                                            
+                                                            margin-right:5px;
+                                                            
+                                                            background-image: url("imagenin3c2.jpg");
+                                                            
+                                                            }
+        
+                                
+                            
